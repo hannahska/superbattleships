@@ -2,7 +2,7 @@
 
 I am building a game called "Super Battleships". It follows much of the same rules of normal Battleships.
 
-There are two players, each of whom has 10 ships: 1 battleship, 2 cruisers, 3 destroyers and 4 frigates.
+There are two players, each of whom has 10 ships: 1 battleship (4 squares long), 2 cruisers (3 squares long), 3 destroyers (2 squares long) and 4 frigates (1 square long).
 
 On each player's turn, a board is printed showing their own ships, any hits and misses that have been recorded, and any parts of the other player's ships that are touching their own ships. They are given the option of shooting or moving a ship. Vertically-aligned ships can move up or down, horizontally aligned ships can move left or right. Ships cannot move into a space already occupied.
 
