@@ -8,4 +8,6 @@ On each player's turn, a board is printed showing their own ships, any hits and 
 
 When all parts of a ship have been hit, the ship can no longer be moved. The game ends when all of one player's ships have been sunk.
 
-There are two play options: the "cheatmode" shows the entire playing board, allowing for easier debugging. Also, ships can be placed either manually (which obviously takes a bit longer) or automatically. Either way, ships will not be allowed to overlap one another.
+There are two play options: the "cheatmode" shows the entire playing board, allowing for easier debugging. Also, ships can be placed either manually (which obviously takes a bit longer) or automatically. Either way, ships will be placed either horizontally or vertically and will not be allowed to overlap one another.
+
+This version of the game is written without using objects and classes so it is quite long. I would like to amend it.
